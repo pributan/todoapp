@@ -50,7 +50,7 @@
 						API, Note app. ☕️
 					</p>
 					<v-btn class="source my-5 pa-2" rounded>
-						<a href="https://github.com/djykus/todoapp">
+						<a href="https://github.com/pributan/todoapp">
 							<v-icon size="20" class="mr-2">
 								{{ socials[1].icon }}
 							</v-icon>
@@ -69,15 +69,15 @@
 			return {
 				socials: [
 					{
-						link: "https://instagram.com/kusuma.jy",
+						link: "https://instagram.com/pributan",
 						icon: "fab fa-instagram",
 					},
 					{
-						link: "https://github.com/djykus",
+						link: "https://github.com/pributan",
 						icon: "fab fa-github",
 					},
 					{
-						link: "https://dribbble.com/djykus",
+						link: "https://dribbble.com/pributan",
 						icon: "fab fa-dribbble",
 					},
 				],

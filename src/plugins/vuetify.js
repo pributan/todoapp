@@ -1,6 +1,6 @@
 import Vue from "vue";
 import Vuetify from "vuetify/lib";
-import "../fonts/css/all.css";
+import "../assets/fonts/css/all.min.css";
 
 Vue.use(Vuetify, {
 	iconfont: "fa",
